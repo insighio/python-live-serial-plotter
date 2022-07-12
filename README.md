@@ -24,5 +24,6 @@ python3 plotter.py /dev/ttyUSB0
 #windows
 python3 plotter.py COM3
 ```
+[example of live UART data](https://user-images.githubusercontent.com/550020/178539264-50f10f43-b0ba-4277-9178-18ad1009d44f.webm)
 
-[live view example](https://user-images.githubusercontent.com/550020/178537239-07c841b8-c08c-4dea-bcd4-cacc9a12063b.webm)
+
