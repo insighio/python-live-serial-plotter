@@ -12,7 +12,7 @@ sudo apt-get install python3-matplotlib python3-serial
 ```
 or
 ```sh
-pip3 install matplotlib serial
+pip3 install matplotlib pyserial
 ```
 
 # Usage
